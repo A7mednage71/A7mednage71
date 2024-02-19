@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmed Nageh , Fluttet Developer
+- 👋 Hi, I’m **Ahmed Nageh** , **Fluttet Developer**
 - 👀 I’m interested in Mobile App Development (Flutter)
 - 👋 Hi, I’m Ahmed Nageh , **Fluttet Developer**
 - 👀 I’m interested in **Mobile App Development (Flutter)**
