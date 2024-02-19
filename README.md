@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tharwat</h1>
-<h3 align="center">Mobile app Developer with a knack for teaching other programming</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Nageh</h1>
+<h3 align="center">Mobile app Developer</h3>
 
 - 👋 Hi, I’m **Ahmed Nageh** , **Fluttet Developer**
 
